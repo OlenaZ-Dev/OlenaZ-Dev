@@ -32,7 +32,7 @@ NLP project for classifying SMS messages as spam or ham.
 
 ## 📱 iOS / SwiftUI Projects
 
-### [MyFina](https://github.com/OlenaZ-Dev/MyFina)
+### [MyFina](https://apps.apple.com/pl/app/myfina/id6748728086)
 Personal finance tracker app for managing incomes and expenses.  
 **Tech stack:** SwiftUI, Core Data, Charts, Multilingual UI  
 - Transaction categorization and filtering
